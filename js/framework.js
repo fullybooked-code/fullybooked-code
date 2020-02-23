@@ -79,7 +79,7 @@ response_logs.get_message = function(response_key, callback) {
 
 function url_mapper(page_id) {
   var pages = {
-    login: "model/login.php",
+    user_registration: "model/user_registation.php",
    
   };
 
